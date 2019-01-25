@@ -1,0 +1,24 @@
+body {
+    margin:0
+}
+
+header {
+    background: purple;
+    text-align: center;
+}
+
+.logo {
+     color: #fff;
+     font-family: 'Tangerine';
+     text-align: center;
+     font-size: 80px;
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.news_item{
+    background-color: red
+}
